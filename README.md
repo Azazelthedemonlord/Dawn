@@ -1,8 +1,8 @@
-# Fabric Example Mod
+# Dawn
 
-## Setup
+(HEAVY WIP)
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+A simple mod about adding the Solar Gun from Boktai in the form of a heavily customizable bow that shoots sunlight-powered laser arrows. Fun extras related to Boktai are planned/included.
 
 ## License
 
